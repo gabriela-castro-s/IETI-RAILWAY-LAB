@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class HealthController {
 
-    @GetMapping("/")
+    @GetMapping("/api")
     public String get() {
         return "Gabriela Castro Santamaria";
     }
