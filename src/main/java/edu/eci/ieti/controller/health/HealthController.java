@@ -1,4 +1,4 @@
-package edu.eci.ieti.controller.health;
+package edu.eci.ieti.controller;
 
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.bind.annotation.RestController;
